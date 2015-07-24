@@ -1,14 +1,7 @@
 # ASIANTECH INC: iOS Coding Guidlines
 
-<<<<<<< HEAD
-This document covers naming and formatting conventions used for iOS application development at AsianTech Inc.
-
-Since this is an Objective-C/Cocoa project, we follow and extend [Apple’s Cocoa Coding Guidelines](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146-SW1). Make sure to be familiar with this document.
-=======
-This document covers naming and formatting conventions used to program AsianTech Inc iOS applications.
-
 Since this is an Objective-C/Cocoa project, we follow and extend [Apple’s Cocoa Coding Guidelines](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146-SW1). Make sure to familiarize yourself with this document.
->>>>>>> 1.0.0
+
 
 In general, use your best judgement as you write your code. Your goals should be:
 
