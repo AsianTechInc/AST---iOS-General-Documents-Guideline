@@ -83,8 +83,7 @@ static CGFloat const kMaxConcurrentOperationCount = 3;
 **App prefix + name**
 
 ```
-typedef struct
-{
+typedef struct {
 	CGFloat red;
 	CGFloat green;
 	CGFloat blue;
@@ -104,8 +103,7 @@ For the values:
 **Enum name + underscore + name**
 
 ```
-typedef enum
-{
+typedef enum {
 	ETRoomState_Open,
 	ETRoomState_Closed
 	
@@ -265,8 +263,7 @@ if (theIndex >= 0) {
 ### Brackets
 
 ```
-- (void)layoutSubviews 
-{
+- (void)layoutSubviews {
 	for (UIView *aView in self.subviews) {
 		aView.frame = aFrame;
 	}
