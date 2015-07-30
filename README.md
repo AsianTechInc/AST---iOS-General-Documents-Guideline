@@ -1,7 +1,7 @@
 # AST---iOS-General-Documents-Guideline
 iOS general documents guideline
 
-### Below are ASIANTECH Inc iOS application development rules
+### ASIANTECH Inc iOS application development rules
 
 ##### iOS Coding Conventions:   Please see [Coding Conventions.md](https://github.com/AsianTechInc/AST---iOS-General-Documents-Guideline/blob/master/Coding%20Conventions.md)
 
