@@ -1,17 +1,10 @@
-# Asian Tech Co., Ltd. : iOS Coding Guidlines
+# Asian Tech Co., Ltd. : iOS Development Environment
 
-This document covers using development environment for iOS platform.
+This document covers using proposal development environment for iOS platform.
 
-With the exception of blocks inside of a method argument:
+# SDK
 
-```
-[UIView animateWithDuration:.25 animations:^ {
-    <#code#>
-} completion:^(BOOL finished) {
-    <#code#>
-}];
+# IDE
 
-```
-### Indention
+# Other Tools
 
-Use the default setting in Xcode: 4 spaces
